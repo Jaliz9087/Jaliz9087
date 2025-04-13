@@ -10,9 +10,9 @@
 
 - 💻 Java, JUnit, Gradle
 - 🔍 RestAssured, Selenide, Allure
-- 📊 Postman, IntelliJ IDEA, Notepad++
+- 📊 Postman/Insomnia, IntelliJ IDEA, DBeaver
 - 🧪 UI & API testing
-- 🚀 Currently learning: Java Automation & Clean Code practices
+- 🚀 Currently learning: Java Automation & Manual Testing
 
 ---
 
