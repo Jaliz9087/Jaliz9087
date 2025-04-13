@@ -27,8 +27,8 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 📧 Email: your.email@example.com *(замени на реальный адрес, если хочешь)*
+- 💼 [Telegram](@loveacidskinnygirl)
+- 📧 Email:jimmy.hole@mail.ru
 
 ---
 
