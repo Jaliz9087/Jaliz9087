@@ -27,8 +27,8 @@
 
 ### 📫 Let's Connect
 
-- 💼 Telegram@loveacidskinnygirl
-- 📧 Email:jimmy.hole@mail.ru
+- 💼 Telegram: @loveacidskinnygirl
+- 📧 Email: jimmy.hole@mail.ru
 
 ---
 
