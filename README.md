@@ -8,7 +8,7 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 Java, JUnit, Gradle
+- 💻 Java, JUnit, Gradle/Maven
 - 🔍 RestAssured, Selenide, Allure
 - 📊 Postman/Insomnia, IntelliJ IDEA, DBeaver
 - 🧪 UI & API testing
