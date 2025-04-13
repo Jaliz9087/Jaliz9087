@@ -32,5 +32,5 @@
 
 ---
 
-> “The best way to learn is to build, test, and break things.” — Jaliz
+> “Рад был видеть =)” — Jaliz
 
