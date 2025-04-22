@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jaliz 👋</h1>
+<h1 align="center">Hi, I'm -whey- 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=QA+Engineer+%7C+Test+Automation+in+Progress;Java+%7C+RestAssured+%7C+JUnit+%7C+Selenide;Always+learning+something+new+%F0%9F%93%9A" />
